@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-    <img width="100px" src="https://res.cloudinary.com/unkcode/image/upload/v1636855127/logo/UNKLogo_negro_hzi5fb.png"/>
+    <img width="100px" src="https://res.cloudinary.com/unkcode/image/upload/v1674613827/logo/logo.png"/>
 </p>
 
 UNKCode is an organization oriented to software development and provide services as a application license manager.
